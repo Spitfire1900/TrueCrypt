@@ -1,5 +1,6 @@
 This archive contains the source code of TrueCrypt 7.1a.
 
+Check the status of Truecrypt's audit at http://istruecryptauditedyet.com/
 
 Important
 =========
